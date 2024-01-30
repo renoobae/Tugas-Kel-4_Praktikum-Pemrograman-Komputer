@@ -6,6 +6,7 @@
 # 4. Muhammad Raihan Maulana Zaqi
 # 5. Muhammad Raffli Renaldi
 
+# Soal
 1. Buat sebuah program dengan method bernama getTotal yang menerima dua bilangan bulat sebagai argumen dan mengembalikan jumlahnya. Panggil metode ini dari main() dan cetak hasilnya. pembahasan dengan menggunakan metode geTotal ini user dapat menginput 2 bilangan bulat dan System akan mengembalikan jumlah yang di input oleh user
 2. Buat metode pengembalian nilai, isVowel yang mengembalikan nilai benar jika karakter tertentu adalah vokal, dan sebaliknya mengembalikan nilai salah. Dalam metode main(), terima string dari pengguna dan hitung jumlah vokal dalam string itu.jawaban :  dengan menggunakan metode is even bertipe int disebut angka untuk memeriksa angka habis dibagi 2 jika hasilnya 0 maka "true" jika hasil bukan 0 maka angka ganjil "false" mencetak hasil genap atau ganjil denagan scanner
 3. Buat metode pengembalian nilai, isVowel yang mengembalikan nilai benar jika karakter tertentu adalah vokal, dan sebaliknya mengembalikan nilai salah. Dalam metode main(), terima string dari pengguna dan hitung jumlah vokal dalam string itu
