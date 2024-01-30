@@ -9,7 +9,6 @@
 1.Buat sebuah program dengan method bernama getTotal yang menerima dua bilangan bulat sebagai argumen dan mengembalikan jumlahnya. Panggil metode ini dari main() dan cetak hasilnya.
 
 import java.util.Scanner;
-
 public class tugas1 {
     static int getTotal(int bilangan1, int bilangan2){
         int hasil = bilangan1 + bilangan2;
@@ -27,8 +26,8 @@ public class tugas1 {
 
         input.close();
     }
-    
 }
+
 penjelasan :
 
 2.Buat method bernama isEven yang menerima argumen int. Metode harus mengembalikan nilai benar jika argumennya genap, atau salah jika sebaliknya. Tulis juga program untuk menguji metode Anda. 
