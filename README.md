@@ -1,10 +1,10 @@
 # Tugas-Kel-4_Praktikum-Pemrograman-Komputer
 # Nama Kelompok 4
-# 1. Satria Anugra
-# 2. Reno
-# 3. Muhammad Rio Perdana
-# 4. Muhammad Raihan Maulana Zaqi
-# 5. Muhammad Raffli Renaldi
+# 1. Satria Anugra  (09011382328156)
+# 2. Reno (09011382328153)
+# 3. Muhammad Rio Perdana  (09011382328150)
+# 4. Muhammad Raihan Maulana Zaqi  (09011382328147)
+# 5. Muhammad Raffli Renaldi  (09011382328152)
 
 # Soal
 1. Buat sebuah program dengan method bernama getTotal yang menerima dua bilangan bulat sebagai argumen dan mengembalikan jumlahnya. Panggil metode ini dari main() dan cetak hasilnya. pembahasan dengan menggunakan metode geTotal ini user dapat menginput 2 bilangan bulat dan System akan mengembalikan jumlah yang di input oleh user
